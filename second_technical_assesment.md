@@ -39,3 +39,6 @@ For the neural network model, MAPE after training was observed to be 8.20%, whic
     <img src="%E2%80%8E%2014db07608bd68028bb72f97d7724aebd/image%201.png" alt="Figure 3. Predicted series using Neural Network Forecasting." width="75%">
     <figcaption><b>Figure 3.</b> Predicted series using Neural Network Forecasting.</figcaption>
 </figure>
+
+### **Code Repository**
+All the code used for this work can be found at [https://github.com/jmejiaes/second_technical_assesment](https://github.com/jmejiaes/second_technical_assesment).
